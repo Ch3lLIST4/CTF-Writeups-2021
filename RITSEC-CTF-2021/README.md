@@ -1,5 +1,8 @@
 # RITSEC CTF 2021
 
+Link to CTF : https://ctf.ritsec.club
+My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
+
 - REV/BIN
 
   - [snek](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/snek.md)
