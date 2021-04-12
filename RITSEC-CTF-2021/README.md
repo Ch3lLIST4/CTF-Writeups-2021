@@ -2,6 +2,7 @@
 
 Link to CTF : https://ctf.ritsec.club
 My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
+![image-20210412140529162](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/images/result.png?raw=true)
 
 - REV/BIN
 
