@@ -14,7 +14,7 @@ For this one is the `GandCrab_Ursnif_RITSEC.docm` file
 
 `GrandCrab` as you may already know is a pretty famous type of ransomware that encrypts a victim's files and demands ransom payment in order to regain access to their data. Taking a look at a file, it is showed to be a `.docm` file so I guessed the attacker is trying to deliver the ransomware via malicious MS Word macros
 
-I used a very well crafted tool called it the [oletools toolkits](https://github.com/decalage2/oletools) called [olevba](https://github.com/decalage2/oletools/wiki/olevba). After a quick installation of the toolkits on my Kali Linux virtual machine. I tried to extract the macros hidden inside the `.docm` file
+I used a very well crafted tool in the [oletools toolkits](https://github.com/decalage2/oletools) called [olevba](https://github.com/decalage2/oletools/wiki/olevba). After a quick installation of the toolkits on my Kali Linux virtual machine. I tried to extract the macros hidden inside the `.docm` file
 
 ```bash
 hoangtran@hoangtran:~/Desktop$ olevba --show-pcode --decode GandCrab_Ursnif_RITSEC.docm
