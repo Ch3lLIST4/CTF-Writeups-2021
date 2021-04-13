@@ -15,8 +15,8 @@ My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
   - [BIRDTHIEF: FYSA](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/BIRDTHIEF%20FYSA.md)
   - [Blob](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Blob.md)
   - [Parcel](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Parcel.md)
-  - [PleaseClickAllTheThings 1](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings 1.md)
-  - [PleaseClickAllTheThings 2&3](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings 2&3.md)
+  - [PleaseClickAllTheThings 1](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings%201.md)
+  - [PleaseClickAllTheThings 2&3](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings%202&3.md)
 - Misc
 
   - [Revision](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Revision.md)
