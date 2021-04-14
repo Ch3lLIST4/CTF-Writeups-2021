@@ -1,35 +1,36 @@
 # RITSEC CTF 2021
 
-Link to CTF : https://ctf.ritsec.club
+Link to CTF : https://ctftime.org/event/1309
+
 My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
 
 - REV/BIN
 
-  - [snek](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/snek.md)
+  - [snek](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/snek.md)
 - CRYPTO
 
-  - [lorem ipsum](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/lorem%20ipsum.md)
+  - [lorem ipsum](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/lorem%20ipsum.md)
 - Forensics
 
-  - [1597](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/1597.md)
-  - [BIRDTHIEF: FYSA](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/BIRDTHIEF%20FYSA.md)
-  - [Blob](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Blob.md)
-  - [Parcel](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Parcel.md)
-  - [PleaseClickAllTheThings 1](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings%201.md)
-  - [PleaseClickAllTheThings 2&3](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/PleaseClickAllTheThings%202&3.md)
+  - [1597](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/1597.md)
+  - [BIRDTHIEF: FYSA](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/BIRDTHIEF%20FYSA.md)
+  - [Blob](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Blob.md)
+  - [Parcel](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Parcel.md)
+  - [PleaseClickAllTheThings 1](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/PleaseClickAllTheThings%201.md)
+  - [PleaseClickAllTheThings 2&3](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/PleaseClickAllTheThings%202&3.md)
 - Misc
 
-  - [Revision](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Revision.md)
+  - [Revision](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Revision.md)
 - STEGO
 
 
 - INTEL
 
-  - [Finding Geno & Data Breach](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Finding%20Geno%26Data%20Breach.md)
-  - [Music Signs](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Music%20Signs.md)
-  - [#OSINTChallenge](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/%23OSINTChallenge.md)
+  - [Finding Geno & Data Breach](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Finding%20Geno%26Data%20Breach.md)
+  - [Music Signs](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Music%20Signs.md)
+  - [#OSINTChallenge](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/%23OSINTChallenge.md)
 - WEB
 
-  - [Robots](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Robots.md)
-  - [Session](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/Session.md)
-  - [DaBabyWeb](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/DababyWeb.md)
+  - [Robots](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Robots.md)
+  - [Session](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Session.md)
+  - [DaBabyWeb](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/DababyWeb.md)
