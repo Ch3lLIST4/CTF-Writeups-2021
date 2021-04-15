@@ -199,7 +199,7 @@ ch3l@DESKTOP-ONTGILH:/mnt/d/ch3l/InceptionCTFRITSEC/Reality/VanChase/SnowFortres
 
 Taking a look at the file it seems like there's some sort of modification to the file data
 
-![Inception](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/images/Inception.png?raw=true)
+![Inception](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/images/Inception.jpg?raw=true)
 
 I tried to use `strings` command again to see if there's any hidden texts could be found inside of the file
 
