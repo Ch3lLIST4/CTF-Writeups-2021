@@ -20,10 +20,10 @@ My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
   - [PleaseClickAllTheThings 2&3](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/PleaseClickAllTheThings%202&3.md)
 - Misc
 
-  - [InceptionCTF Dream 4&5](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/InceptionCTF%20Dream%204&5.md)
+  - [Revision](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Revision.md)
 - STEGO
 
-  - [Revision](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Revision.md)
+  - [InceptionCTF Dream 4&5](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/InceptionCTF%20Dream%204&5.md)
 - INTEL
 
   - [Finding Geno & Data Breach](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Finding%20Geno%26Data%20Breach.md)
