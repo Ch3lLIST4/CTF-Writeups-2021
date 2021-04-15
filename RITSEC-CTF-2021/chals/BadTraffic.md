@@ -32,9 +32,11 @@ For this challenge, the author wants us to identify that mysterious hacking tool
 
 After quite a few guesses and a bit of time reading articles, a friend of mine [daPwn](https://ctf.ritsec.club/teams/334) successfully found the correct answer which is `DNSteal` 
 
+![image-20210414210530594](https://i1.wp.com/1.bp.blogspot.com/-PfPN_6tT38s/XqgJWgtpGhI/AAAAAAAAjyo/i2YcWoNwi5cM5aHA99ZgERfJYm9oA9LxACLcBGAsYHQ/s1600/6.png?w=640&ssl=1)
+
 Source code : https://github.com/m57/dnsteal
 
-One of the related article : https://www.hackingarticles.in/data-exfiltration-using-dnssteal/
+One of the related articles : https://www.hackingarticles.in/data-exfiltration-using-dnssteal/
 
 We think this was a bit guessy of a challenge and solution, but we got the flag anyways
 
