@@ -1,4 +1,4 @@
-# BadTraffic
+# Bad Traffic
 
 > **Please DO NOT attempt to reset the password for any accounts or social engineer the characters. We have taken action to prevent this in the future and your activity will likely be flagged as malicious by the account providers.**
 >

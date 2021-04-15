@@ -29,7 +29,7 @@ My Result : https://ctf.ritsec.club/scoreboard#:~:text=Ch3lLIST4
   - [Finding Geno & Data Breach](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Finding%20Geno%26Data%20Breach.md)
   - [Music Signs](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Music%20Signs.md)
   - [#OSINTChallenge](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/%23OSINTChallenge.md)
-  - [Bad Traffic](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/BadTraffic.md)
+  - [Bad Traffic](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Bad%20Traffic.md)
 - WEB
 
   - [Robots](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/RITSEC-CTF-2021/chals/Robots.md)
