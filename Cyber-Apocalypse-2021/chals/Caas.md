@@ -7,7 +7,7 @@ The website simply `curl` a given domain name or IP address and return the resul
 
 ![image-20210421004632439](https://github.com/Ch3lLIST4/CTF-Writeups-2021/blob/main/Cyber-Apocalypse-2021/images/Caas-1.png?raw=true)
 
-Taking a look at the source code given, these are the 3 main files that we need to pay close attention for
+Taking a look at the source code given, these are the 3 main files that we need to pay close attention to
 
 `main.js` for front-end processing :
 
